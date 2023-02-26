@@ -8,7 +8,7 @@ const Share = () => {
             <div className="shareWrapper">
                 <div className="shareTop">
                     <img className='shareProfileImg'
-                         src="/media-files/person/1.jpeg" alt=""
+                         src="/media-files/person/Oruj photo.jpg" alt=""
                     />
                     <input className='shareInput'
                            placeholder='What`s in your mind Oruj?'
